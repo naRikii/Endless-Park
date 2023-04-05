@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: b569651b5931e1d40a07c26d555c28a9
+  - enabled: 1
+    path: Assets/Scenes/scene1.unity
+    guid: a4b83e44a902b8f4da11df050e136968
+  - enabled: 1
+    path: Assets/Scenes/scene2.unity
+    guid: ec006f52ff0a32946b8f06a244a417bb
+  - enabled: 1
+    path: Assets/Scenes/scene3.unity
+    guid: 8f969c5a377881f4d90ccda498b5f17a
+  - enabled: 1
+    path: Assets/Scenes/path1/scene4-1.unity
+    guid: 6fcbf9604570f0042aa0f9e674ec9b90
+  - enabled: 1
+    path: Assets/Scenes/path1/scene4-2.unity
+    guid: 798e6725055f4f9468c20d5327e2c70c
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/scene4-3.unity
+    guid: 7c38f2f9158e8644f815a96e29f8afbc
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/room1.unity
+    guid: 678c6bc512733824381dd5d281ed3032
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/room2.unity
+    guid: c3f0402e747896e4ea528eeaee832e7b
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/room3.unity
+    guid: b1273891f25f38247a2236b18a94ec41
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/room4.unity
+    guid: 5c13a7d57750ab7408654899c16aceef
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/room2s.unity
+    guid: 2214eb6c7621ac944a4328414b0cc77b
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/room2ss.unity
+    guid: 83b166dd0f274de48a49e5092013b18b
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/airport route/airport.unity
+    guid: bb7f9cdc8cc3e134bada2f10f1b20faa
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/airport route/hallway.unity
+    guid: f6c3f01cdd6267d41bc8e6a205da8a27
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/airport route/airplane.unity
+    guid: 8991defd2f90ee144829bb631cb3dbca
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/airport route/sitting.unity
+    guid: 1ca91c54dbc9ff941be392985bd1897b
+  - enabled: 1
+    path: Assets/Scenes/path1/apartment/airport route/takenoff.unity
+    guid: 4de178783ef3cf2489e0608b8b716b24
+  - enabled: 1
+    path: Assets/Scenes/path2/lonely.unity
+    guid: 26885d127dc92f748963fa9367015732
+  - enabled: 1
+    path: Assets/Scenes/path2/path2-2.unity
+    guid: 712ae4ad4d1427c43bb58f6de22ebe5e
+  - enabled: 1
+    path: Assets/Scenes/path2/path2-3.unity
+    guid: 2152d3993f6c8574c83250f3d2b266f5
+  - enabled: 1
+    path: Assets/Scenes/path2/path2-4.unity
+    guid: 31fe10bc53b99c94492856562d831f45
+  - enabled: 1
+    path: Assets/Scenes/path2/literallyjustablackscreenlol.unity
+    guid: 33ab87c7b8906de4f83e886f18481a87
+  m_configObjects: {}
