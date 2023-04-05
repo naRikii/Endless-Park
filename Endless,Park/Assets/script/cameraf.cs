@@ -7,19 +7,18 @@ using UnityEngine.UIElements;
 
 public class cameraf : MonoBehaviour
 {
-   
-   stopautofilling
-    void Start()
-    {
-        
-    }
+    [SerializeField] private Vector3 offset;
+    [SerializeField] private float damping;
 
-    // Update is called once per frame
-    void Update()
+    public Transform target;
+    private Vector3 vel = Vector3.zero;
+    private void FixedUpdate()
     {
-        
-        this.transform.position.z = -10;
-        Camera.main.transform.position = FindObjectOfType<player>().transform.position;
-     
+        Vector3 targetPosition = target.position + offset * Time.deltaTime;
+        targetPosition.z = transform.position.z;
+
+        transform.position = Vector3.SmoothDamp(transform.position, targetPosition, ref vel, damping);
+
+
     }
 }
