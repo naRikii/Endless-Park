@@ -6,6 +6,7 @@ using TMPro;
 
 public class SceneLoader : MonoBehaviour
 {
+    [SerializeField] public int SceneIndex;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,6 +18,11 @@ public class SceneLoader : MonoBehaviour
     {
         
     }
+    public void customSceneLoadByIndex()
+    {
+        SceneManager.LoadScene(SceneIndex);
+    }
+
     public void begin()
     {
         SceneManager.LoadScene("scene1");
@@ -113,5 +119,20 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("literallyjustablackscreenlol");
     }
-
+    public void well()
+    {
+        SceneManager.LoadScene("well");
+    }
+    public void review()
+    {
+        SceneManager.LoadScene("outside");
+    }
+    public void path41()
+    {
+        SceneManager.LoadScene("demonstration");
+    }
+    public void path411()
+    {
+        SceneManager.LoadScene("inside");
+    }
 }

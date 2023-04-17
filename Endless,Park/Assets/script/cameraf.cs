@@ -12,7 +12,7 @@ public class cameraf : MonoBehaviour
 
     public Transform target;
     private Vector3 vel = Vector3.zero;
-    private void FixedUpdate()
+    private void Update()
     {
         Vector3 targetPosition = target.position + offset * Time.deltaTime;
         targetPosition.z = transform.position.z;

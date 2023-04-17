@@ -74,4 +74,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/path2/literallyjustablackscreenlol.unity
     guid: 33ab87c7b8906de4f83e886f18481a87
+  - enabled: 1
+    path: Assets/Scenes/path3/well.unity
+    guid: eb5c12e8d818de946ad2134b62ec5381
+  - enabled: 1
+    path: Assets/Scenes/path3/outside.unity
+    guid: 35c26a94c68ba774abc8bc21e744335b
+  - enabled: 1
+    path: Assets/Scenes/path4/demonstration.unity
+    guid: 33a700f370c12624d8cdda76b485acea
+  - enabled: 1
+    path: Assets/Scenes/path4/inside.unity
+    guid: 9046453fd17b3164ea327d1215666d13
+  - enabled: 1
+    path: Assets/Scenes/path4/hallway.unity
+    guid: 9869b286acd962245ad4268f8d2cebac
+  - enabled: 1
+    path: Assets/Scenes/path4/heaven.unity
+    guid: 13395c9038e21374ea5fcf7bf2a70646
+  - enabled: 1
+    path: Assets/Scenes/deviations/musicOne.unity
+    guid: a618f3decc8eac7429cd8f81b553e0d7
+  - enabled: 1
+    path: Assets/Scenes/deviations/WRONG.unity
+    guid: 094e1651eb9f45246afe6866c3bccf34
+  - enabled: 1
+    path: Assets/Scenes/deviations/musicTwo.unity
+    guid: 403fc1d183ebc874883ef645e7e0cc68
+  - enabled: 1
+    path: Assets/Scenes/deviations/musicThree.unity
+    guid: ce8a41c39021a874295aaa8f78612413
+  - enabled: 1
+    path: Assets/Scenes/deviations/musicFour.unity
+    guid: 5c5ef1023db91a949b96d450c0f26ebc
   m_configObjects: {}

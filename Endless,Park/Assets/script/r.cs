@@ -6,8 +6,7 @@ public class r : MonoBehaviour
 {
 
     [SerializeField] float rotatespeed = 0.12f;
-    Vector3 spe;
-    float place = 0f;
+    
     
     // Start is called before the first frame update
     void Start()
