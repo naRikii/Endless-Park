@@ -107,4 +107,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/deviations/musicFour.unity
     guid: 5c5ef1023db91a949b96d450c0f26ebc
+  - enabled: 1
+    path: Assets/Scenes/deviations/winner.unity
+    guid: 3592c191e9094b04a86a0952c5600df4
   m_configObjects: {}
