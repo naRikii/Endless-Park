@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - secondoption
+  - lava
+  - win
+  - load
+  - secrets
+  - WYSI
   layers:
   - Default
   - TransparentFX
