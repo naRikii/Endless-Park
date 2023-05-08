@@ -10,6 +10,8 @@ TagManager:
   - load
   - secrets
   - WYSI
+  - the new
+  - wall
   layers:
   - Default
   - TransparentFX

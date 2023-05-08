@@ -12,10 +12,18 @@ public class on : MonoBehaviour
     {
         
     }
-    public void OnCollisionEnter2D(Collision2D collide)
+    public void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.tag == "wall")
+        {
+            Debug.Log("yor");
+        }
+        else
+        {
+            FindObjectOfType<SceneLoader>().customSceneLoadByIndex();
+        }
+            
 
-        FindObjectOfType<SceneLoader>().customSceneLoadByIndex();
     }
 
 

@@ -149,4 +149,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/path1/scene 4-1/Scene2.unity
     guid: 1ac0ca0212dfc6e4cb39b3460f77f463
+  - enabled: 1
+    path: Assets/Scenes/path1/scene 4-1/413.unity
+    guid: 66421c589ec73094a83a4386a4c5b813
+  - enabled: 1
+    path: Assets/Scenes/path1/scene 4-1/414.unity
+    guid: 13e4686e3b25942448e0e9077ec3784c
+  - enabled: 1
+    path: Assets/Scenes/masonScene.unity
+    guid: 9d5d00ce211bbff48955391b7bbb46c9
+  - enabled: 1
+    path: Assets/Scenes/path1/scene 4-1/415.unity
+    guid: 0e0736b07c0f1b64b9702faf8a120e09
+  - enabled: 1
+    path: Assets/Scenes/path1/scene 4-1/rewarD.unity
+    guid: 8af223c6462b25e49a4ecd8d0984b286
+  - enabled: 1
+    path: Assets/Scenes/PerfectO.unity
+    guid: 655e0d2bd23ab5b4f888d5f910424d75
   m_configObjects: {}
