@@ -12,6 +12,8 @@ TagManager:
   - WYSI
   - the new
   - wall
+  - matrix
+  - floor
   layers:
   - Default
   - TransparentFX
@@ -19,8 +21,8 @@ TagManager:
   - animatiuon
   - Water
   - UI
-  - 
-  - 
+  - matrix
+  - objects
   - 
   - 
   - 

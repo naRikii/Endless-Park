@@ -13,8 +13,8 @@ public class Credits : MonoBehaviour
     string C4 = "Coding Credits: Myself, Mr. Chen, Ben Wempe";
     string C5 = "Music Programs used to make the music: BeepBox, FL Studio";
     string C6 = "Art Credits go to: Myself, saikoro, siinamota, peppy, rrtyui, EBIMAYO";
-    string C7 = "51 Scenes, 25 scripts, 100 sprites.";
-    string C8 = "...e";
+    string C7 = "57 Scenes, 26 scripts, 106 sprites.";
+    string C8 = "...";
     string C9 = "Congrats on solving all the puzzles I layed out";
     string C10 = "I hope they werent too nonsensical";
     string C11 = "Goodbye";
@@ -22,7 +22,8 @@ public class Credits : MonoBehaviour
 
 
 
-    // Start is called before the first frame update
+
+    // Start is called before the first frame updates
     void Start()
     {
         StartCoroutine(DialogueCredits());
